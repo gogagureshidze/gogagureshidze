@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gogagureshidze
-- 👀 I’m interested in web dev and robotics software engineering
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gogagureshidze8@gmail.com
