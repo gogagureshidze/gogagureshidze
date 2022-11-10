@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gogagureshidze
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gogagureshidze8@gmail.com
 
