@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Goga Gureshidze
 
-🎸 Guitarist turned developer 
+🎸 Guitarist and developer 
 💻 Focused on becoming a **professional full-stack engineer**  
 🚀 Blending creativity and logic through code 
 
