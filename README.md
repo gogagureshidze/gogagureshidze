@@ -21,7 +21,7 @@
 - 🔧 Redis (caching), Authentication (JWT, OAuth)
 
 ### DevOps & Tools:
-- 🚧 Learning AWS (EC2, S3, deployment), Docker (basics), Vercel, Git & GitHub
+- 🚧 Learning AWS (EC2, S3, deployment), Docker (basics), Render, Git & GitHub
 
 ---
 
