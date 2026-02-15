@@ -25,7 +25,7 @@ I love combining clean design, solid architecture, and efficient code to create 
 ---
 
 ## 💬 Ask Me About  
-- React, Next.js, Tailwind, TypeScript, Node.js, MongoDB  
+- React, Next.js, Tailwind, TypeScript, Node.js, MongoDB, AI Integration and Agents
 
 ---
 
