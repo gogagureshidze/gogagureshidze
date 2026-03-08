@@ -7,8 +7,8 @@ I love combining clean design, solid architecture, and efficient code to create 
 
 ## 🔭 Current Work  
 - 🌐 [Goga Network](https://github.com/gogagureshidze/goga_network) – Social network app  
-- 🤝 AI Meeting SaaS app *(coming soon on GitHub)*  (Comming soon!)
-- 🤖 AI Coding Interview Helper *(coming soon on GitHub)*  (Comming soon!) 
+- 🤝 AI Reasoning Software  *(coming soon on GitHub)*  (Comming soon!)
+- 🤖 AI Coding Interview Helper *(coming soon on GitHub)* (Future SaaS)  (Comming soon!) 
 
 ---
 
