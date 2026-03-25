@@ -7,7 +7,7 @@ I love combining clean design, solid architecture, and efficient code to create 
 
 ## 🔭 Current Work  
 - 🌐 [Goga Network](https://github.com/gogagureshidze/goga_network) – Social network app
-- 🌐 [Goga BLog](https://goga-blog.netlify.app/) – Blog App with Content Moderation Tool
+- 🌐 [Goga Blog](https://goga-blog.netlify.app/) – Blog App with Content Moderation Tool
 - 🤖 AI Coding Interview Helper EtudeAI *(coming soon on GitHub)* (Future SaaS) 
 ---
 
